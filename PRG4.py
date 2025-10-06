@@ -4,8 +4,12 @@ num2 = float(input("Enter the second number: "))
 
 addition = num1 + num2
 subtraction = num1 - num2
+Multiplication = num1 * num2
+division = num1 / num2
 
 print("Addition:", addition)
 print("Subtraction:", subtraction)
+print("Multiplication:", Multiplication)
+print("Division:", division)
 
 
